@@ -5,7 +5,7 @@
   <groupId>com.liumapp.archetype.separation</groupId>
   <artifactId>single-separation-archetype</artifactId>
   <version>v1.0.0</version>
-  <packaging>jar</packaging>
+  <packaging>pom</packaging>
 
   <name>single-separation-archetype</name>
   <url>http://maven.apache.org</url>
