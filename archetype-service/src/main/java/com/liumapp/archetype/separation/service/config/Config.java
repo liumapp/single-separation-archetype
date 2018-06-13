@@ -1,12 +1,15 @@
-package com.liumapp.archetype.separation.config;
+package com.liumapp.archetype.separation.service.config;
 
 import org.springframework.context.annotation.Configuration;
 import org.springframework.web.servlet.config.annotation.CorsRegistry;
 import org.springframework.web.servlet.config.annotation.WebMvcConfigurerAdapter;
+
 /**
- * Created by liumapp on 9/28/17.
- * E-mail:liumapp.com@gmail.com
- * home-page:http://www.liumapp.com
+ * @author liumapp
+ * @file Config.java
+ * @email liumapp.com@gmail.com
+ * @homepage http://www.liumapp.com
+ * @date 6/13/18
  */
 @Configuration
 public class Config extends WebMvcConfigurerAdapter {
